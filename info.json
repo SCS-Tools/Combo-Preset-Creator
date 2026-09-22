@@ -1,0 +1,15 @@
+{
+  "uid": "c1a0d5e7f9b2468ca1d0e5f7b9c2468dc1a0d5e7f9b2468ca1d0e5f7b9c2468d",
+  "name": "Combo Preset Creator",
+  "desc_ru": "Создаёт пресеты Combo Installer из активных модов профиля ETS2 и игрового журнала.",
+  "desc_en": "Creates Combo Installer presets from an ETS2 profile's active mods and game log.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "runtime": {
+    "type": "html_python",
+    "entry": "app.html",
+    "logic": "logic.py",
+    "timeout": 60
+  }
+}
